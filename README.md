@@ -101,7 +101,3 @@ pillow>=10.0.0
 reportlab>=4.0.0
 lxml>=4.9.0
 ```
-
-## License
-
-MIT License
